@@ -1,4 +1,4 @@
-baseURL = "https://taiking.github.io/hello-hugo-docs/"
+baseURL = "https://taiking.github.io/hello-hugo-docs"
 languageCode = "en-us"
 title = "Hellow Hugoa"
 theme = "book"
